@@ -1,0 +1,16 @@
+---
+output: html_document
+bibliography: references.bib
+---
+
+# Cannabis nutrients solution formula optimization
+
+Here lies the documentation of the literature review, code to generate the experimental design and analyze the results, and the conclusions of the project.
+
+# Literature review
+
+[@bevan2021] et al. present a central composite design in which they find inflorescence yield is not affected by potassium (K) concentration in the range of 60 - 240 mg $L^{-1}$
+
+[@saloner2022] el al. present different results regarding potassium (K) supply on inflorescence yield, in which they find the optimum concentration to be 175 mg $L^{-1}$
+
+[@stiles1914] introduce the antagonism between Ca and Mg and how

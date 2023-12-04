@@ -1,0 +1,100 @@
+{
+    "sources": [
+        {
+            "DOI": "10.3389/fpls.2021.764103",
+            "URL": "http://dx.doi.org/10.3389/fpls.2021.764103",
+            "author": [
+                {
+                    "family": "Bevan",
+                    "given": "Lewys"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Max"
+                },
+                {
+                    "family": "Zheng",
+                    "given": "Youbin"
+                }
+            ],
+            "container-title": "Frontiers in Plant Science",
+            "id": "bevan2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        11,
+                        17
+                    ]
+                ]
+            },
+            "title": "Optimisation of nitrogen, phosphorus, and potassium for soilless production of cannabis sativa in the flowering stage using response surface analysis",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.3389/fpls.2021.764103",
+            "URL": "http://dx.doi.org/10.3389/fpls.2021.764103",
+            "author": [
+                {
+                    "family": "Bevan",
+                    "given": "Lewys"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Max"
+                },
+                {
+                    "family": "Zheng",
+                    "given": "Youbin"
+                }
+            ],
+            "container-title": "Frontiers in Plant Science",
+            "id": "bevan2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        11,
+                        17
+                    ]
+                ]
+            },
+            "title": "Optimisation of nitrogen, phosphorus, and potassium for soilless production of cannabis sativa in the flowering stage using response surface analysis",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.3390/agronomy12051242",
+            "URL": "http://dx.doi.org/10.3390/agronomy12051242",
+            "author": [
+                {
+                    "family": "Saloner",
+                    "given": "Avia"
+                },
+                {
+                    "family": "Bernstein",
+                    "given": "Nirit"
+                }
+            ],
+            "container-title": "Agronomy",
+            "id": "saloner2022",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5,
+                        23
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1242",
+            "title": "Effect of Potassium (K) Supply on Cannabinoids, Terpenoids and Plant Function in Medical Cannabis",
+            "type": "article-journal",
+            "volume": "12"
+        }
+    ],
+    "project_biblios": []
+}

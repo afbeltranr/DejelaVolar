@@ -1,0 +1,31 @@
+{
+    "id": "D878F9AF",
+    "path": "~/GitHub/DejelaVolar/report.Rmd",
+    "project_path": "report.Rmd",
+    "type": "r_markdown",
+    "hash": "2381532553",
+    "contents": "",
+    "dirty": false,
+    "created": 1701689105746.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "707:48",
+        "cursorPosition": "9,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701728324,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701728324855,
+    "read_only": false,
+    "read_only_alternatives": []
+}
